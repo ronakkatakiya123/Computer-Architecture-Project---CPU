@@ -16,5 +16,17 @@ To view and simulate the `.circ` files, you will need to have [Logisim](http://w
 2. Go to `File -> Open` and select `CPU.circ` to explore the main processor design.
 3. Use the simulation tools in Logisim to test the circuit's behavior and clock cycles.
 
+## Circuit Screenshots
+Here are some images of the CPU circuit design:
+
+![Screenshot 1](CPU_IMG/Screenshot%202026-05-14%20101742.png)
+![Screenshot 2](CPU_IMG/Screenshot%202026-05-14%20101818.png)
+![Screenshot 3](CPU_IMG/Screenshot%202026-05-14%20101855.png)
+![Screenshot 4](CPU_IMG/Screenshot%202026-05-14%20101921.png)
+![Screenshot 5](CPU_IMG/Screenshot%202026-05-14%20101939.png)
+![Screenshot 6](CPU_IMG/Screenshot%202026-05-14%20102020.png)
+![Screenshot 7](CPU_IMG/Screenshot%202026-05-14%20102135.png)
+![Screenshot 8](CPU_IMG/Screenshot%202026-05-14%20102150.png)
+
 ## Author
 * **Ronak Katakiya**
